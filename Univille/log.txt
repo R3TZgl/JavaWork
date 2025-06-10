@@ -1,0 +1,6 @@
+[20:09:08.697552500] [DEBUG] Mensagem salva no arquivo.
+[20:09:08.744427400] [WARNING] Alerta gravado.
+[20:09:08.806924400] [ERROR] Erro registrado em log.txt.
+[2025-06-10 20:14:45] [DEBUG] Mensagem salva no arquivo.
+[2025-06-10 20:14:45] [WARNING] Alerta gravado.
+[2025-06-10 20:14:45] [ERROR] Erro registrado em log.txt.
